@@ -21,7 +21,7 @@
 		"mcp:standalone": "node standalone-mcp-server.js"
 	},
 	"dependencies": {
-		"@modelcontextprotocol/sdk": "^1.0.7",
+		"@modelcontextprotocol/sdk": "^1.32.1",
 		"agents": "^0.0.95",
 		"pdf-parse": "^1.1.1",
 		"zod": "^3.23.8",
